@@ -10,5 +10,5 @@ EXP USE THIS COMMAND  TO OPEN CHROME :
 
 windows + r +   chrome.exe --user-data-dir="C://Chrome dev session" --disable-web-security
 
-OR IF YOU ARE USING A NODEJS CHROME OPENER DONT FORGET TO MENTION  "--disable-web-security"
+OR IF YOU ARE USING  NODEJS  CHROME OPENER PACKAGE DONT FORGET TO MENTION  "--disable-web-security"
 
